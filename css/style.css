@@ -28,7 +28,15 @@
 }
 .tim_imgs{
     text-align: center;
+    margin-bottom: 16px;
 }
 .descr_img{
     text-align: left;
+}
+
+.paragrafo{
+    font-size: 25px;
+}
+.evidenziato{
+    background-color: yellow;
 }
