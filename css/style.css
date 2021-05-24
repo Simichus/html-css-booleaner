@@ -1,0 +1,12 @@
+.pattern{
+    height: 200px;
+    background-color: rgb(7, 129, 185);
+    background-image: url(../img/pattern.png);
+    text-align: bottom;
+}
+
+#logo{
+    height: 100px;
+    padding-top: 100px;
+    
+}
