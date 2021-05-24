@@ -49,6 +49,7 @@ thead{
 table{
     border-spacing: 0px;
     font-size: 20px;
+    margin-bottom: 16px;
 }
 .tr_type1{
     background-color: lightskyblue;
