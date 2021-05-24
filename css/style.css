@@ -34,7 +34,7 @@
     text-align: left;
 }
 
-table, ul, .paragrafo{
+ul, .paragrafo{ 
     font-size: 25px;
 }
 .evidenziato{
@@ -44,4 +44,18 @@ thead{
     width: 100%;
     background-color: rgb(0, 174, 255);
     font-weight: bold;
+    border: none;
 }
+table{
+    border-spacing: 0px;
+    font-size: 20px;
+}
+.tr_type1{
+    background-color: lightskyblue;
+}
+.td_type1{
+    padding-right: 40px;
+}
+
+
+
