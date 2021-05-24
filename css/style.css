@@ -7,6 +7,7 @@
 }
 
 #logo{
+    margin-left: 16px;
     height: 100px;
     padding-top: 100px;
     
@@ -57,6 +58,30 @@ table{
 .td_type1{
     padding-right: 40px;
 }
-
-
+.suggerimenti{
+    color: gray;
+}
+.suggerimento1{
+    padding-top: 10px;
+    padding-left: 10px;
+    height: 200px;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    background-image: url(../img/monitor.jpg);
+    background-repeat: no-repeat;
+    background-position-x: left;
+}
+.suggerimento2{
+    padding-top: 10px;
+    padding-left: 10px;
+    margin-top: 16px;
+    height: 200px;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    background-image: url(../img/graph.jpg);
+    background-repeat: no-repeat;
+    background-position-x: left;
+}
 
