@@ -2,6 +2,7 @@
     height: 200px;
     background-color: rgb(7, 129, 185);
     background-image: url(../img/pattern.png);
+    background-repeat: repeat;
     text-align: bottom;
 }
 
@@ -9,4 +10,18 @@
     height: 100px;
     padding-top: 100px;
     
+}
+
+#titolo{
+    text-align: justify;
+}
+.autore, .data{
+    color: gray;
+}
+.autore{
+    font-size: 20px;
+}
+
+#colore_blu{
+    color: rgb(0, 132, 255);
 }
